@@ -1,0 +1,9 @@
+Building Balloon
+
+See doc/readme-qt.rst for instructions on building Balloon QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Balloon.
+
+See doc/build-*.txt for instructions on building balloond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Balloon.
